@@ -1,4 +1,6 @@
 # TestCPP
 Use here to practice C++
 
-This is your Pilot Project!
+Esse é seu projeto piloto para praticar C++
+
+Faça comentários sempre que possível!
